@@ -1,0 +1,59 @@
+*** Payforme for WooCommerce Changelog ***
+
+
+= 2024-01-31 - version 2.1.2 =
+* Updated to High Performance Order Storage (HPOS)
+
+= 2024-01-22 - version 2.1.1 =
+* Updated to latest WooCommcerce version
+
+= 2023-06-09 - version 2.1.0 =
+* Add - Seamless Store Connection: Introducing an effortless way for merchants to connect their store with just a single click.
+
+= 2023-05-31 - version 2.0.7 =
+* Add - Updated branding and clarified pricing in FAQ for better transparency and value communication.
+
+= 2023-05-30 - version 2.0.6 =
+* Add - Now providing clear and actionable guidance when WooCommerce API keys are found to be missing or incorrect.
+
+2023-05-29 - version 2.0.5
+* Add - Support for custom store fees.
+* Fix - Minor UI improvements.
+
+2023-05-26 - version 2.0.4
+* Add - Rebranded logo
+* Fix - Minor fixes and improvements.
+
+2023-04-30 - version 2.0.3
+* Fix - Debug banner always displayed on the store page.
+* Fix - Minor fixes and improvements.
+
+2023-04-29 - version 2.0.0
+* Improved modal integration ensures the shopper never leaves the store
+* Supports Payforme button in the shopping cart page
+* Significant UI/UX fixes and improvements.
+
+2022-10-09 - version 1.1.0
+* Improved UX for users and merchants.
+* Requires payment before creating a new order.
+* Minor fixes and improvements.
+
+2022-07-07 - version 1.0.1
+* Changed the background appearance of the Payforme button.
+
+2022-07-04 - version 1.0.0
+* Shows a popup window instead of a page redirect from the store.
+* Adds the payment link to the order received page.
+
+2022-06-26 - version 0.0.4
+* Supports Sandbox Mode option for testing.
+* Adds Settings link to the Plugins Screen.
+
+2022-04-14 - version 0.0.3
+* Migrated to the new production server.
+
+2022-03-20 - version 0.0.2
+* Migrated to the new checkout API
+
+2022-02-24 - version 0.0.1
+* Alpha release
